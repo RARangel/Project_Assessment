@@ -1,4 +1,6 @@
-# Project_Assessment
+# Assessments
+
+## Team and Project Assessment
 
 https://github.com/aktugchelekche/Project_Team_2/blob/main/Team-and-Project-assessment.docx
 
